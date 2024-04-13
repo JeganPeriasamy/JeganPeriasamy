@@ -23,8 +23,12 @@ I'm seeking advice and insights on optimizing database performance for large-sca
 Feel free to ask me about web development, AWS - Solution Architect Certification
 
 📫 How to reach me
-Connect with me on LinkedIn - https://www.linkedin.com/in/jegan-periasamy-14a139154/
+Connect with me on 
+
+LinkedIn - https://www.linkedin.com/in/jegan-periasamy-14a139154/
+
 Send me an email at jeganperiasamy@gmail.com
+
 😄 Pronouns
 He/Him
 
