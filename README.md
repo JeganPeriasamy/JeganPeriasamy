@@ -1,16 +1,36 @@
-### Hi there 👋
+Hey there! 👋 I'm Jegan Periasamy 
+I'm a passionate Engineer with knowledge in MERN Full Stack Development ,Cloud Computing Services (AWS) and Variety of DevOps Tools like Jenkins, Docker  based in Chennai. I love working with cutting-edge technologies and exploring new ways to solve problems.
 
-<!--
-**JeganPeriasamy/JeganPeriasamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Technologies & Tools
+Languages: JavaScript, Python
+Frameworks: React, Node.js
+Database: MongoDB, MySQL
+Tools: Git, VS Code
 
-Here are some ideas to get you started:
+🌱 Currently Learning
+I'm currently diving deeper into Docker and Kubernetes to enhance my deployment and scaling skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+Passionate Engineer looking for opportunity to work collaboratively in software development and delivery processes of Businesses.
+
+👯 I’m looking to collaborate on
+I'm open to collaborating on projects related to web development, especially those involving React and Node.js.
+
+🤔 I’m looking for help with
+I'm seeking advice and insights on optimizing database performance for large-scale applications.
+
+💬 Ask me about
+Feel free to ask me about web development, AWS - Solution Architect Certification
+
+📫 How to reach me
+Connect with me on LinkedIn - https://www.linkedin.com/in/jegan-periasamy-14a139154/
+Send me an email at jeganperiasamy@gmail.com
+😄 Pronouns
+He/Him
+
+⚡ Fun fact
+I believe problem-solving or programming is really easy compared to communicating with fellow people.
+
+🌟 Major Repositories
+Explore some of my major repositories with their star counts:
+
