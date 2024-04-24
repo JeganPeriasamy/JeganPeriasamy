@@ -35,8 +35,13 @@ I'm a passionate Engineer with knowledge in MERN Full Stack Development ,Cloud C
 😄 Pronouns
       He/Him
 
-⚡ Fun fact
-      I believe problem-solving or programming is really easy compared to communicating with fellow people.
+⚡ UPCOMING PROJECTS 
+        USING REACT
+        1. Food Ordering and Delivery Application
+        2. Real Estate App
+        3. Youtube Clone 
+        4. College Management Websites 
+                 
 
 🌟 Major Repositories
       Explore some of my major repositories with their star counts:
