@@ -260,6 +260,7 @@ export const projects = [
     ],
     category: "FULL STACK",
     webapp: "https://foodfront.netlify.app/",
+    github: "https://github.com/JeganPeriasamy?tab=repositories",
   },
   
   {
@@ -281,6 +282,8 @@ export const projects = [
     ],
     category: "FULL STACK",
     webapp: "https://artvistawp.netlify.app",
+    github: "https://github.com/JeganPeriasamy?tab=repositories",
+    
   },
   {
     id: 2,
@@ -300,6 +303,7 @@ export const projects = [
     ],
     category: "FULL STACK",
     webapp: "https://hospitalmanagementappl.netlify.app/",
+    github: "https://github.com/JeganPeriasamy?tab=repositories",
   },
   {
     id: 3,
@@ -311,6 +315,7 @@ export const projects = [
     tags: ["GEMINI API","HTML", "CSS", "REACT", "BootStrap"],
     category: "FRONT END",
     webapp: "https://gemini-clone-jegan.netlify.app/",
+    github: "https://github.com/JeganPeriasamy/Gemini-clone-",
   },
   {
     id: 3,
@@ -321,6 +326,7 @@ export const projects = [
     tags: ["reactJS", "nodeJS", "mongoDB", "expressJS"],
     category: "FRONT END",
     webapp: "https://socialzee.netlify.app/",
+     github:"https://github.com/JeganPeriasamy/JeganPeriasamy-Material-UI-Social-media-app---front-end-",
   },
 
   {
