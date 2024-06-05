@@ -14,7 +14,7 @@ export const Bio = {
     "A dedicated engineer with knowledge in MERN Stack, Cloud Computing Services & a variety of DevOps tools  and technologies. I am passionate about working collaboratively to improve software development and delivery  processes of Businesses",
   github: "https://github.com/JeganPeriasamy",
   resume:
-    "https://drive.google.com/file/d/1rbFhd6611h14w4etmGgnVg5VLvZIaHG-/view?usp=sharing",
+    "https://drive.google.com/file/d/1DTsZdyJ_s9bfevR5GjADf5gBm3V1_RCm/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/jegan-periasamy-14a139154/",
 };
 
