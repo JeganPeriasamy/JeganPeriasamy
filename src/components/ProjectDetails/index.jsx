@@ -227,6 +227,9 @@ const index = ({ openModal, setOpenModal }) => {
                         </>
                     )}
                     <ButtonGroup>
+                        <NavLink to={project?.github} target='_blank'>
+                            <Button dull>View Code</Button>
+                        </NavLink>
                         <NavLink to={project?.webapp} target='_blank'>
                             <Button>View Live App</Button>
                         </NavLink>
