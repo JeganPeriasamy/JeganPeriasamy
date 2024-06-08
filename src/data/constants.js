@@ -306,6 +306,26 @@ export const projects = [
     github: "https://github.com/JeganPeriasamy?tab=repositories",
   },
   {
+    id: 2,
+    title: "Market Trending Blog",
+    date: "",
+    description:
+      "Blog Website - where users can view the blogs and in order to read the blog complete they need to be signin ,logged in user are given permission to write blog with all CRUD operation ",
+    image: "https://i.imgur.com/8cQeR9c.png",
+    tags: [
+      "ReactJS",
+      "MongoDB",
+      "ExpressJS",
+      "nodeJS",
+      "Auth",
+      "JWT",
+      
+    ],
+    category: "FULL STACK",
+    webapp: "",
+    github: "https://github.com/JeganPeriasamy?tab=repositories",
+  },
+  {
     id: 3,
     title: "Gemini Clone",
     date: "MARCH 2024",
