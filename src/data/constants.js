@@ -302,7 +302,7 @@ export const projects = [
       "Cloudinary"
     ],
     category: "FULL STACK",
-    webapp: "https://hospitalmanagementappl.netlify.app/",
+    webapp: "https://zeehospitals.netlify.app",
     github: "https://github.com/JeganPeriasamy?tab=repositories",
   },
   {
