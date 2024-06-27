@@ -311,7 +311,7 @@ export const projects = [
     date: "",
     description:
       "Blog Website - where users can view the blogs and in order to read the blog complete they need to be signin ,logged in user are given permission to write blog with all CRUD operation ",
-    image: "https://i.imgur.com/or2IsXR.png",
+    image: "https://i.imgur.com/d6MrQBd.png",
     tags: [
       "ReactJS",
       "MongoDB",
