@@ -322,7 +322,7 @@ export const projects = [
       
     ],
     category: "FULL STACK",
-    webapp: "",
+    webapp: "https://blogjeg.netlify.app",
     github: "https://github.com/JeganPeriasamy?tab=repositories",
   },
   {
